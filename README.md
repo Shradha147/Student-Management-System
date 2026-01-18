@@ -20,6 +20,6 @@ It is a beginner-friendly project created for learning and practice purposes.
 
 ## How to Run the Project
 cd Student-Management-System
-py studentmanagement.py
+ py studentmanagement.py
 
 ## 📂 Project Structure
