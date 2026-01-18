@@ -19,7 +19,7 @@ It is a beginner-friendly project created for learning and practice purposes.
 - (Add backend / database if used – e.g., PHP, MySQL, Java, Python)
 
 ## How to Run the Project
-cd Student-Management-System
+ cd Student-Management-System
  py studentmanagement.py
 
 ## 📂 Project Structure
