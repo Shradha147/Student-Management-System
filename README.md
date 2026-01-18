@@ -1,5 +1,5 @@
  # 📚 Student Management System
-##📌 Project Description
+## 📌 Project Description
 The Student Management System is a simple application designed to manage student information efficiently.
 This project helps in understanding how real-world systems handle student data such as registration, attendance, and records.
 
@@ -17,5 +17,9 @@ It is a beginner-friendly project created for learning and practice purposes.
 - CSS
 - JavaScript
 - (Add backend / database if used – e.g., PHP, MySQL, Java, Python)
+
+## How to Run the Project
+cd Student-Management-System
+py studentmanagement.py
 
 ## 📂 Project Structure
