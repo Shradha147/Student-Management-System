@@ -1,4 +1,5 @@
 Student-Management-System# 📚 Student Management System
+
 📌 Project Description
 The Student Management System is a simple application designed to manage student information efficiently.
 This project helps in understanding how real-world systems handle student data such as registration, attendance, and records.
