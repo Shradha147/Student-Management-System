@@ -6,16 +6,16 @@ This project helps in understanding how real-world systems handle student data s
 It is a beginner-friendly project created for learning and practice purposes.
 
 ## 🚀 Features
--Add new student details
--View student records
--Update student information
--Delete student data
--Simple and user-friendly interface
+- Add new student details
+- View student records
+- Update student information
+- Delete student data
+- Simple and user-friendly interface
 
 ## 🛠️ Technologies Used
--HTML
--CSS
--JavaScript
--(Add backend / database if used – e.g., PHP, MySQL, Java, Python)
+- HTML
+- CSS
+- JavaScript
+- (Add backend / database if used – e.g., PHP, MySQL, Java, Python)
 
 ## 📂 Project Structure
